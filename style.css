@@ -30,6 +30,10 @@ h1, h2 {
     font-size: 14px;
 }
 
+.extendedNetwork p {
+    font-size: 18px;
+}
+
 .left_padding {
     padding-left: 15px;
 }
