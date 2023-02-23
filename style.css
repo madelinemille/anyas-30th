@@ -26,6 +26,10 @@ h1, h2 {
    padding: 15px;
 }
 
+.giphy-embed {
+    vertical-align: text-bottom;
+}
+
 .profileInfo p {
     font-size: 14px;
 }
@@ -40,6 +44,10 @@ h1, h2 {
 
 .top_margin {
     margin-top: 15px;
+}
+
+.bottom_margin {
+    margin-bottom: 30px;
 }
 
 .top_padding {
