@@ -20,8 +20,8 @@ h1, h2 {
     margin: 0;
 }
 
-.profileInfo, .extendedNetwork, .friendSpace {
-   border: #CD00CD 2px solid;
+.profileInfo, .extendedNetwork, .friendSpace, .statusInfo {
+   border: #FF35D3 2px solid;
    margin-bottom: 20px;
    padding: 15px;
 }
@@ -31,11 +31,19 @@ h1, h2 {
 }
 
 .extendedNetwork p {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .left_padding {
     padding-left: 15px;
+}
+
+.top_margin {
+    margin-top: 15px;
+}
+
+.top_padding {
+    padding-top: 15px;
 }
 
 .profileDemographics {
@@ -43,5 +51,9 @@ h1, h2 {
 }
 
 .pink {
-    color: #CD00CD;
+    color: #FF35D3;
+}
+
+.header-img {
+    margin-bottom: 15px;
 }
